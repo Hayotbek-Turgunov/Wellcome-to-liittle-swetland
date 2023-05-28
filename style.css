@@ -2,7 +2,7 @@ body{
   background-color: #4F696AFF;
 }
 .container{
-  margin-top: 50px;
+  margin-top: 60px;
 }
 .container .card img{
   width: 100px;
@@ -16,6 +16,7 @@ body{
   margin: auto;
   text-align: center;
   background-color: #102020FF;
+
 }
 .card h1 {
   font-family: 'Times New Roman', Times, serif;
